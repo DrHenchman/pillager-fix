@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "Fix Pillager persistence in CraftBukkit/Spigot",
+    "pack_format": 4
+  }
+}
